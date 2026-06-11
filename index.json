@@ -6,6 +6,7 @@
       "version": "1.0.0",
       "display_name": "Bridge CLI",
       "description": "BridgeOS 官方原生 Agent，深度集成系统各项能力。",
+      "tags": ["acpAdapters"],
       "bundled": true
     },
     {
@@ -14,6 +15,7 @@
       "display_name": "Gemini CLI",
       "description": "Google 官方出品的强大 AI 开发助手，支持多模态输入与智能编码。",
       "download_url": "npm:@google/gemini-cli@latest",
+      "tags": ["acpAdapters"],
       "bundled": false
     },
     {
@@ -22,6 +24,7 @@
       "display_name": "Claude Code",
       "description": "Anthropic 官方命令行工具，擅长深度逻辑推理与大规模代码重构。",
       "download_url": "npm:@anthropic-ai/claude-code@latest",
+      "tags": ["acpAdapters"],
       "bundled": false
     },
     {
@@ -30,6 +33,7 @@
       "display_name": "Cline",
       "description": "开源自主 AI 程序员，能够操作终端、编辑文件、执行命令。",
       "download_url": "npm:cline@latest",
+      "tags": ["acpAdapters"],
       "bundled": false
     },
     {
@@ -38,6 +42,7 @@
       "display_name": "Cursor Agent",
       "description": "连接 Cursor IDE 的强大 AI 引擎代理。",
       "download_url": "npm:cursor-agent@latest",
+      "tags": ["acpAdapters"],
       "bundled": false
     },
     {
@@ -46,6 +51,7 @@
       "display_name": "OpenCode",
       "description": "行业主流的开源代码分析与生成助手。",
       "download_url": "npm:opencode-cli@latest",
+      "tags": ["acpAdapters"],
       "bundled": false
     },
     {
@@ -54,6 +60,7 @@
       "display_name": "Codex",
       "description": "基于 OpenAI Codex 模型的高级命令行助手。",
       "download_url": "npm:codex-cli@latest",
+      "tags": ["acpAdapters"],
       "bundled": false
     }
   ]
