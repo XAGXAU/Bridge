@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "extensions": [
+    {
+      "name": "bridge-cli",
+      "version": "1.0.0",
+      "display_name": "Bridge CLI",
+      "description": "BridgeOS 官方原生 Agent，深度集成系统各项能力。",
+      "bundled": true
+    },
+    {
+      "name": "@google/gemini-cli",
+      "version": "0.46.0",
+      "display_name": "Gemini CLI",
+      "description": "Google 官方出品的强大 AI 开发助手，支持多模态输入与智能编码。",
+      "download_url": "npm:@google/gemini-cli@latest",
+      "bundled": false
+    },
+    {
+      "name": "claude-code",
+      "version": "0.2.29",
+      "display_name": "Claude Code",
+      "description": "Anthropic 官方命令行工具，擅长深度逻辑推理与大规模代码重构。",
+      "download_url": "npm:@anthropic-ai/claude-code@latest",
+      "bundled": false
+    },
+    {
+      "name": "cline",
+      "version": "3.2.1",
+      "display_name": "Cline",
+      "description": "开源自主 AI 程序员，能够操作终端、编辑文件、执行命令。",
+      "download_url": "npm:cline@latest",
+      "bundled": false
+    },
+    {
+      "name": "cursor-agent",
+      "version": "1.0.0",
+      "display_name": "Cursor Agent",
+      "description": "连接 Cursor IDE 的强大 AI 引擎代理。",
+      "download_url": "npm:cursor-agent@latest",
+      "bundled": false
+    },
+    {
+      "name": "opencode",
+      "version": "1.2.0",
+      "display_name": "OpenCode",
+      "description": "行业主流的开源代码分析与生成助手。",
+      "download_url": "npm:opencode-cli@latest",
+      "bundled": false
+    },
+    {
+      "name": "codex-cli",
+      "version": "2.1.0",
+      "display_name": "Codex",
+      "description": "基于 OpenAI Codex 模型的高级命令行助手。",
+      "download_url": "npm:codex-cli@latest",
+      "bundled": false
+    }
+  ]
+}
